@@ -1,7 +1,6 @@
 *.img
-*.dtb
-*.lz4
 *.cpio
 rd/init
 rd/payload/banner
 rd/payload/dtb
+rd/payload/Image.lz4
